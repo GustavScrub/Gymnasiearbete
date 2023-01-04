@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YYV8+QOwdYZiIwVICANFm8ybno8A1PP9VfOb8ZBzzKT5WDuoG/MYZG80mRwtb3O6XysnRqAJHC2XpNflq7Qj3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berg.gustav\\Downloads\\Gymnasiearbete (2)\\Gymnasiearbete\\Gymnasiearbete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berg.gustav\\.nuget\\packages\\raylib-cs\\3.7.0.1\\raylib-cs.3.7.0.1.nupkg.sha512",
+    "C:\\Users\\berg.gustav\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

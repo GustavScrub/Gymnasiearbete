@@ -1,0 +1,42 @@
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.exe
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.deps.json
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.runtimeconfig.json
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.pdb
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.AssemblyReference.cache
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.AssemblyInfoInputs.cache
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.AssemblyInfo.cs
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.CoreCompileInputs.cache
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.CopyComplete
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\refint\Gymnasiearbete.dll
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.pdb
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.genruntimeconfig.cache
+C:\Users\fredrikssonjensen.b\Desktop\Gymnasiearbete\obj\Debug\net6.0\ref\Gymnasiearbete.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.exe
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.deps.json
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.runtimeconfig.json
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Gymnasiearbete.pdb
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\Raylib-cs.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\runtimes\win-x64\native\raylib.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\bin\Debug\net6.0\runtimes\win-x86\native\raylib.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.AssemblyReference.cache
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.AssemblyInfoInputs.cache
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.AssemblyInfo.cs
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.CoreCompileInputs.cache
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.csproj.CopyComplete
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\refint\Gymnasiearbete.dll
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.pdb
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\Gymnasiearbete.genruntimeconfig.cache
+C:\Users\berg.gustav\Downloads\Gymnasiearbete (2)\Gymnasiearbete\obj\Debug\net6.0\ref\Gymnasiearbete.dll
